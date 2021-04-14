@@ -1,0 +1,3096 @@
+Looking for git in: git
+Using git 2.25.1 from git
+Opening repository for path='/home/sebastian/Escritorio/crud' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/.gitignore' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/sebastian/Escritorio/crud/README.md' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/sebastian/Escritorio/crud/node_modules' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/package-lock.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/sebastian/Escritorio/crud/package.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/sebastian/Escritorio/crud/public' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/users' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/login' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/Escritorio/crud/src/components/blogs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}

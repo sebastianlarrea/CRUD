@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+body {
+    background-color: #F0F2F5;
+}
+
+textarea {
+    resize:none;
+}
+
+.btn-primary{
+    background-color: #032557;
+}
+
+.login{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h2 {
+        text-align: center;
+        font-family: 'Londrina Solid', cursive;
+        font-size: 60px;
+        color: #032557;
+        margin-bottom: 1%;
+    }
+
+    .table .thead-dark th{
+        background-color: #032557;
+        text-align: center;
+    }
+}
+
+form {
+    width: 400px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    background-color: white;
+    padding: 1.5%;
+    border: 1px solid #dddfe2;
+
+    .form-control{
+        margin: 2% 0%;
+        border-radius: 6px;
+        font-size: 15px;
+        padding: 7% 6%;
+
+        &.select-control{
+            padding: 0% 6%;
+        }
+    }
+
+    button {
+        width: 100%;
+        margin-top: 5%;
+        padding: 10% 6%;
+        font-size: 17px;
+
+        &.btn-primary {background-color: #032557;}
+
+        &.btn-primary:hover  {background-color: #093473;}
+        
+        &.btn-primary:active  {background-color: #093473;}
+
+    }
+}
+
+.blogs-list{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    position: absolute;
+    top:20%;
+}
+
+.blog{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3%;
+    width: 55%;
+    border-radius: 9px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+
+    label{
+        margin-bottom: 0%;
+        padding: 2%;
+    }
+
+    .label-category{
+        float: right;
+        background-color: white;
+        color: #032557;
+        border-radius: 0 8px 0 0;
+    }
+
+    .label-like {
+        float: right;
+        display: flex;
+        flex-direction: row;
+        padding: 2% 2% 0 2%;
+    }
+
+    .corazoncito{
+        margin-right: 10%;
+    }
+
+    .label-title {
+        background-color: white;
+        color: #032557;
+
+        &.title{
+            border-radius: 8px 0 0 0;
+        }
+    }
+
+    button{
+        margin:0 2%;
+    }
+
+    .blog-text {
+        padding: 2%;
+    }
+
+    .blog-title{
+        background-color: #032557;
+        border-radius: 9px 9px 0 0;
+        color: white;
+        font-family: 'Lato', sans-serif;
+    }
+
+    .blog-description{
+        background-color: #d8e3e7;
+    }
+
+    .blog-buttons{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-bottom: 1.5%;
+    }
+}
+
+
+.swal-button {
+    background-color: #032557;
+}
+
+
+@media (max-width: 600px) {
+    .login {
+        margin:auto;
+    }
+    form{
+        padding: 5%;
+        width: 80%;
+    }
+}

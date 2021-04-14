@@ -1,0 +1,42 @@
+Looking for git in: git
+Using git 2.25.1 from git
+Opening repository for path='/home/sebastian/my-app' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/my-app/.gitignore' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/sebastian/my-app/README.md' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/sebastian/my-app/node_modules' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/my-app/package-lock.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/sebastian/my-app/package.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/sebastian/my-app/public' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/my-app/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/my-app/src/components/comment' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
+Opening repository for path='/home/sebastian/my-app/src/components/comment' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git\n"
+}
