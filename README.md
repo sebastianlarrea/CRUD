@@ -48,7 +48,7 @@ La tercera tabla es la tabla de Likes, la cuál contiene los blogs que han sido 
 No se encuentran creados usuarios en la base de datos, pues esto se resuelve facilmente registrandose en el sitio, sin embargo, existe un usario administrador, las credenciales `sebastian.larrea@udea.edu.co` y `konecta!`
  
 
-### Manual de instalación:
+### 3. Manual de instalación:
 
 Luego de recuperar la base de datos, es necesario tener claro en que parte deben ir las dos carpetas.
 
